@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-family"
+			],
+			[
 				"text",
 				"text-decoration"
 			],
@@ -35,7 +39,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 1487,
+				"buffer_size": 1743,
 				"line_ending": "Windows"
 			}
 		},
@@ -43,7 +47,7 @@
 			"file": "app/js/app.js",
 			"settings":
 			{
-				"buffer_size": 545,
+				"buffer_size": 640,
 				"line_ending": "Windows"
 			}
 		},
@@ -51,7 +55,7 @@
 			"file": "app/css/app.css",
 			"settings":
 			{
-				"buffer_size": 81,
+				"buffer_size": 137,
 				"line_ending": "Windows"
 			}
 		}
@@ -59,9 +63,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 300.0,
+		"height": 400.0,
 		"selected_items":
 		[
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -138,7 +146,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -169,7 +177,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -178,15 +186,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1487,
+						"buffer_size": 1743,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								878,
-								878
+								1134,
+								1134
 							]
 						],
 						"settings":
@@ -196,10 +204,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 95.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -208,15 +216,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 545,
+						"buffer_size": 640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								85,
-								85
+								268,
+								268
 							]
 						],
 						"settings":
@@ -236,15 +244,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 81,
+						"buffer_size": 137,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21,
-								21
+								86,
+								86
 							]
 						],
 						"settings":
@@ -257,7 +265,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
