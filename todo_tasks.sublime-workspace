@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-disabled	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"after",
+				"after_title"
+			],
+			[
+				"upda",
+				"Update"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1487,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/js/app.js",
+			"settings":
+			{
+				"buffer_size": 545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/css/app.css",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 300.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"mark",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 1046.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user1/Dropbox/Web/_AngularApps/Todo.tasks/scripts/web-server.js",
+		"/C/Users/user1/Dropbox/Web/_AngularApps/Todo.tasks/app/js/controllers.js",
+		"/C/Users/user1/Dropbox/Web/_AngularApps/angular-phonecat/app/js/controllers.js",
+		"/C/Users/user1/Dropbox/Web/_AngularApps/angular-phonecat/app/index.html",
+		"/C/Users/user1/Downloads/spotify-to-mp3-master/spotify-to-mp3-master/songs.txt",
+		"/C/Users/user1/Dropbox/Web/_Wordpress/Themes/dw-minion/page-full.php",
+		"/C/Users/user1/Dropbox/Web/_Wordpress/Themes/MW-minion/index.php",
+		"/C/Users/user1/Dropbox/Web/_Wordpress/Themes/MW-minion/style.css",
+		"/C/Users/user1/Dropbox/Web/_Wordpress/Themes/MW-minion/functions.php",
+		"/C/Users/user1/Dropbox/Unity3D Projects/Terraforma/Assets/Scripts/PlayerController.cs",
+		"/C/Users/user1/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/user1/Dropbox/sublime3-get-sync.bat",
+		"/C/Users/user1/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user1/Dropbox/Unity3D Projects/Full Capacity/Assets/Game/Scripts/PlayerSystem.cs",
+		"/C/Users/user1/Dropbox/sublime3-set-main-sync.bat",
+		"/C/Users/user1/Downloads/cmder_full/cmder/Readme.md",
+		"/C/Users/user1/Dropbox/Tabs/Slow Picking - Riverwalk.xml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/user1/Dropbox/Programming/Love2D/GAMES/Pong/main.lua"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/css/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "todo_tasks.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

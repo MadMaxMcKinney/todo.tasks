@@ -1,0 +1,6 @@
+/* Main stylesheet */
+
+.done {
+  text-decoration: line-through;
+  color: #ccc;
+}
