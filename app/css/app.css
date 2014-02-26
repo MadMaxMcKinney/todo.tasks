@@ -1,10 +1,29 @@
 /* Main stylesheet */
 
 .done {
-  text-decoration: line-through;
-  color: #ccc;
+	text-decoration: line-through;
+  	color: #ccc;
 }
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+
+}
+
+footer {
+	position:fixed;
+	margin-left:auto;
+	margin-right:auto;
+	width:50%;
+	bottom:0px;
+	height:30px;
+}	
+
+/* IE 6 */
+* html footer {
+	position:absolute;
+	top:expression((0-(footer.offsetHeight)+(document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight)+(ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop))+'px');
 }
