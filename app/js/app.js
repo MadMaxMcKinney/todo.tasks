@@ -2,21 +2,28 @@ angular.module('todoApp', []).
 controller('todoCtrl', ['$scope', function ($scope) {
 
 	$scope.todos = [
-		{'name': "Get this done", 'done': false}
+		
 	];
-
-	$scope.addTodo = function(){
-		$scope.todos.push({'name': $scope.newTodo,'done': false})
-		$scope.newTodo = ''
-	}
 	
-	// TODO: (1) Fix bug where clearing the completed tasks keeps an "empty" item in the array.
+	$scope.addTodo = function(){
+		$scope.todos.push({'name': $scope.newTodo,'done': false});
+		$scope.newTodo = '';
+	}
+
 	$scope.clearCompleted = function(){
-		// Set the list of todos to the everything that isn't "done" yet.
-		// Basically this makes it seem like we are removing the items that are compelted.
-		$scope.todos = $scope.todos.filter(function(item){
-			return !item.done
-		})
+		// Using JS filter function, it loops through an array, using the function provided as
+		// a check to see if an item should be returned or not. Then it returns a new array
+		// with items that pass the tests provided by the function given.
+		$scope.todos = $scope.todos.filter(isCompleted);
+	}
+
+	// This function will take the objects from the todos array, and for every object that is completed 
+	// do not return that object.
+	function isCompleted(value, index, ar) {
+		if (value.done == true) {
+			return false;
+		}
+		return true;
 	}
 	
 }])

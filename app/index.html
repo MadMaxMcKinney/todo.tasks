@@ -18,13 +18,13 @@
 
     <h6>Remaining items to do {{todos.length}}</h6>
 
-    <form name="frm" ng-submit="addTodo()">
+    <form name="frm">
       <div class="form-group">
         <!--<label for="newTodoItem">Todo Items</label>-->
         <input type="text" name="newtodo" class="form-control" placeholder="Item to add" ng-model="newTodo" requied />
       </div>
       <div class="form-group">
-        <button ng-disabled="frm.$invalid" class="btn btn-default">
+        <button ng-disabled="frm.$invalid" class="btn btn-default" ng-click="addTodo()">
           Add <span class="glyphicon glyphicon-plus"></span>
         </button>
         <button ng-click="clearCompleted()" class="btn btn-default">
