@@ -10,6 +10,10 @@ With `node` installed on your system simply run from the root directory `node sc
 
 Then navigate to localhost:8000 to find your index.html file.
 
+## Live Preview
+
+Find a live preview of the app running here: http://doubleelite.com/projects/TodoTasks/index.html
+
 ## License
 
 The MIT License (MIT)
