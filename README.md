@@ -12,7 +12,7 @@ Then navigate to localhost:8000 to find your index.html file.
 
 ## Live Preview
 
-Find a live preview of the app running here: http://doubleelite.com/projects/TodoTasks/index.html
+Find a live preview of the app running here: http://manifolddigital.com/projects/TodoTasks/index.html
 
 ## License
 
